@@ -1,38 +1,3 @@
-/* Theme Name: Hublind - Landing page Template
-   Author: Coderthemes
-   Author e-mail: coderthemes@gmail.com
-   Version: 1.0.0
-   Created: May 2017
-   File Description:Main CSS file of the template
-*/
-
-/*------------------------------------------------------------------
-
-[Table of contents]
-
-1. Custom Font
-2. Reset 
-3. Helper Classes
-4. Preloader
-5. Navbar
-6. Home
-7. Features
-8. Brand
-9. Services
-10. Screenshot
-11. Pricing
-12. Testimonials
-13. Footer CTA
-14. Footer
-15. Contact
-16. FAQ
-17. Team
-18. Demo Only
-19. Blog
-20. Responsive
-
--------------------------------------------------------------------*/
-
 /*========= 1.Custom Font =========*/
 @font-face {
     font-family: "WeblySleek UI";
