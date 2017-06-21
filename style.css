@@ -1,21 +1,21 @@
 /*========= 1.Custom Font =========*/
 @font-face {
     font-family: "WeblySleek UI";
-    src: url("../fonts/ws-ui.eot");
-    src: local('WeblySleek UI Regular'), url("../fonts/ws-ui.woff") format("woff");
+    src: url("https://github.com/toni-schmidt/westlines/blob/master/ws-ui.woff");
+    src: local('WeblySleek UI Regular'), url("https://github.com/toni-schmidt/westlines/blob/master/ws-ui.woff") format("woff");
     font-weight: 400;
 }
 
 @font-face {
     font-family: "WeblySleek UI";
-    src: url("../fonts/ws-ui-semibold.eot");
-    src: local('WeblySleek UI Bold'), url("../fonts/ws-ui-semibold.woff") format("woff");
+    src: url("https://github.com/toni-schmidt/westlines/blob/master/ws-ui-semibold.woff");
+    src: local('WeblySleek UI Bold'), url("https://github.com/toni-schmidt/westlines/blob/master/ws-ui-semibold.woff") format("woff");
     font-weight: 700;
 }
 @font-face {
     font-family: "WeblySleek UI";
-    src: url("../fonts/ws-ui-light.eot");
-    src: local('WeblySleek UI Light'), url("../fonts/ws-ui-light.woff") format("woff");
+    src: url("https://cdn.rawgit.com/toni-schmidt/westlines/78916c0f/ws-ui-light.woff");
+    src: local('WeblySleek UI Light'), url("https://cdn.rawgit.com/toni-schmidt/westlines/78916c0f/ws-ui-light.woff") format("woff");
     font-weight: 100;
 }
 
@@ -243,7 +243,7 @@ textarea {
 }
 
 .title-box {
-    background-image: url("../images/pattern.png");
+    background-image: url("https://cdn.rawgit.com/toni-schmidt/westlines/4311d61e/pattern.png");
     background-repeat: repeat;
     color: #ffffff;
     padding: 85px 0;
@@ -296,7 +296,7 @@ textarea {
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url("../images/preloader.gif");
+    background-image: url("https://raw.githubusercontent.com/toni-schmidt/westlines/4311d61e/preloader.gif");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -419,7 +419,7 @@ textarea {
 
 /* Home Background image */
 .home-bg-img {
-    background: url("../images/bg-1.jpg");
+    background: url("https://cdn.rawgit.com/toni-schmidt/westlines/29dd261f/bg1.png");
     background-size: cover;
 }
 
